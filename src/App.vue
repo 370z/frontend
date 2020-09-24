@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="ทดสอบ CMTC Ichigoz"/>
+  <HelloWorld msg="ทดสอบ CMTC IchigozZZZZ"/>
 </template>
 
 <script>
